@@ -39,6 +39,15 @@ body {
   font-size: 0.7em;
 }
 
+.paragrafo-resultado-valido, .paragrafo-resultado-invalido {
+  background: rgb(127, 230, 190);
+  padding: 10px 20px;
+}
+
+.paragrafo-resultado-invalido {
+  background: rgb(255, 164, 137);
+}
+
 h3 {
   font-size: 0.8em;
 }
